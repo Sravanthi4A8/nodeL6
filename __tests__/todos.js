@@ -85,8 +85,3 @@ describe("Test case for database", () => {
     expect(bool).toBe(true);
   });
 });
-
-
-    
-
-  
